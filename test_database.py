@@ -1,5 +1,5 @@
 import mysql.connector as sql
-"""TRY TO GO AND DO SOME CHANGES FOR REDUDANCY"""
+"""GO AND DO SOME CHANGES FOR REDUDANCY"""
 """that queries wont repeat again"""
 mydb = sql.connect(									#connection to database
 	host='localhost',
