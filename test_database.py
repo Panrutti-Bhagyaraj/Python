@@ -1,5 +1,5 @@
 import mysql.connector as sql
-
+"""GO AND DO SOME CHANGES FOR REDUDANCY"""
 mydb = sql.connect(									#connection to database
 	host='localhost',
 	user='root',
